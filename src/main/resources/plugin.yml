@@ -1,0 +1,13 @@
+name: LobbyCore
+version: ${project.version}
+main: net.hypedkey.lobbycore.LobbyCore
+api-version: 1.16
+prefix: LobbyCore
+authors: [ HypedKey ]
+description: Lobby Core functions
+website: https://hypedkey.net
+commands:
+  spawn:
+    description: Spawn
+    usage: /<command>
+    permission: lobbycore.spawn

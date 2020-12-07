@@ -1,0 +1,6 @@
+# -----------------------------------------------------
+# spawnloc: 'hub, 1, 71, 0, -90, 2'
+# commandspawn: 'hub, 1, 71, 0, -90, 2'
+# this is not used right now
+# -----------------------------------------------------
+SpawnCommandMessage: '&6&lTeleported to spawn!'
